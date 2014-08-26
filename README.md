@@ -7,7 +7,7 @@ Credits
 -------
 
 * Code and 'art': foolOnTheHill
-* Audio: made with http://www.bfxr.net/
+* Sound Effects: made with http://www.bfxr.net/
 
 License
 -------
